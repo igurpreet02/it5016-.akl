@@ -1,0 +1,3 @@
+text="....gurpreet....singh....guri...."
+r=text.strip('.gurpreet')
+print(r)
